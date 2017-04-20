@@ -1,4 +1,4 @@
-# :earth_asia: Hello, World! :new_moon_with_face:
+# :earth_asia: Hello,:raised_hands: World! :new_moon_with_face:
 
 :bowtie: [My CIS Website on UOregon.edu](http://pages.uoregon.edu/jmille18/111/)
 
